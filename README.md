@@ -28,7 +28,7 @@ Once approved, you will receive credentials to connect to the cluster.
 | SARAH     | 192   | High-throughput tasks |
 | LAILA     | 112   | Includes GPU support for deep learning |
 
-Additionally, the cluster also includes eight storage nodes: data, data1, …... data7.
+Additionally, the cluster also includes eight storage nodes: data, …... data7.
 
 * Note: : Penn State provides a separate HPC resource called ROAR (Routinely Available Online Resources), which can be rented for larger jobs.
 
