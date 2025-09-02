@@ -17,3 +17,9 @@
 Additionally, the cluster also includes eight storage nodes: data, …... data7.
 
 * Note: : Penn State provides a separate HPC resource called ROAR (Routinely Available Online Resources), which can be rented for larger jobs.
+
+
+## User Profile & Storage
+
+* Each user receives 1–2 TB of personal storage space (home directory).
+* Shared datasets are stored on the common storage nodes (data to data7).
