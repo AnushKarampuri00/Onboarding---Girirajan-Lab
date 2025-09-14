@@ -14,10 +14,7 @@
 * A request must be sent to the Computer Division team. Alternatively, a current PhD student (Deepro Banerjee) may submit the request on behalf of the rotation student.
 Once approved, you will receive credentials to connect to the cluster.
 
-
-
-
-## 4. Connecting to the Cluster
+## 3. Connecting to the Cluster
 
 * Access the cluster via SSH:
   
@@ -30,7 +27,7 @@ ssh <psuid>@<computational_node_name>.bx.psu.edu
 * Computational Node Name: One of the five listed nodes (Ramona, Durga, Qingyu, Sarah, Laila).
 * Authentication: Requires your PSU email password and 2FA code from the authenticator app.
 
-## 6. Installing VS Code
+## 4. Installing VS Code
 
 * It is recommended to use Visual Studio Code (VS Code) for development because it supports:
 * Multiple programming languages (Python, R, etc.)
@@ -40,7 +37,7 @@ ssh <psuid>@<computational_node_name>.bx.psu.edu
 
 ## ➡️ Download VS Code from the Microsoft Store or official site.
 
-## 7. Linking VS Code to SSH
+## 5. Linking VS Code to SSH
 
 * To use VS Code with the cluster:
 ## Install the following extensions:
