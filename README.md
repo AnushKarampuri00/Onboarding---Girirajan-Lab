@@ -50,13 +50,15 @@ ssh <psuid>@<computational_node_name>.bx.psu.edu
 (Optional: Python, Jupyter Notebook Keymap, etc.)
 
 ## Configure settings:
-✅ Enable required checkboxes as prompted.
-# YET TO BE WRITTEN
-❌ Disable unnecessary options (based on your preference).
-# YET TO BE WRITTEN
+
+✅ login to the cluster using the psu credentials by connecting to ssh-remote
+* Open the directory assigned to you from the file option available in VS Code
+
+```
+file --> open --> give the path for the directory you were assigned.
+```
 * This setup will allow you to code locally while executing jobs on the cluster.
 
-  
 # Summary
 
 This guide helps rotation students:
@@ -64,4 +66,3 @@ This guide helps rotation students:
 * Request and configure cluster access
 * Understand the Girirajan Lab HPC cluster and storage system
 
-***THE SETTINGS NEED TO BE CONFIGURED IN THE VS CODE HAVE TO BE UPDATED IN THE README FILE***
